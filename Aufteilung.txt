@@ -1,0 +1,22 @@
+Aufteilung für die Präsentation:
+
+	Leon S.:
+		Frontend vorstellen 
+		auch gerne am Code
+
+
+	Levin:
+		Backend vorstellen 
+		Tabellen zeigen von der Neon DB
+
+	Leon L.:
+		Einführung
+			Warum haben wir einen ToDo-Planer gemacht 
+			Warum haben wir mir Vercel gearbeitet 
+
+
+
+	Allgemein:
+		Demo hat theoretisch jeder machen 
+
+
